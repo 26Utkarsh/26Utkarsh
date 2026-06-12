@@ -3,7 +3,8 @@
 **Full-Stack Developer** | Building AI-Powered Web Solutions | Web Applications & Data Visualization Specialist
 
 [![GitHub](https://img.shields.io/badge/GitHub-26Utkarsh-181717?logo=github)](https://github.com/26Utkarsh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Utkarsh%20Shrivastava-0A66C2?logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Utkarsh%20Shrivastava-0A66C2?logo=linkedin)](https://www.linkedin.com/in/utkarsh-shrivastava-b588b1200/)
+[![Email](https://img.shields.io/badge/Email-itsutkarsh2608-EA4335?logo=gmail)](mailto:itsutkarsh2608@gmail.com)
 
 ---
 
@@ -114,8 +115,8 @@ SQL-based analytical project processing 10,000+ sales records with aggregations,
 
 I'm always excited to discuss new projects, collaborate on innovative solutions, and explore opportunities in full-stack development and AI integration.
 
-📧 **Email:** [Add your email]  
-💼 **LinkedIn:** [Add your LinkedIn profile]  
+📧 **Email:** [itsutkarsh2608@gmail.com](mailto:itsutkarsh2608@gmail.com)  
+💼 **LinkedIn:** [Utkarsh Shrivastava](https://www.linkedin.com/in/utkarsh-shrivastava-b588b1200/)  
 🐙 **GitHub:** [@26Utkarsh](https://github.com/26Utkarsh)
 
 ---
