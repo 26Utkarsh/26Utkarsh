@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=Utkarsh+Shrivastava;Full-Stack+Developer;AI+%26+ML+Integrator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=Utkarsh+Shrivastava;Full-Stack+Developer;AI+%26+ML+Integration+Specialist" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 🤖 About Me
 
-I'm a **passionate full-stack developer** fresh out of college with a strong foundation in modern web technologies and AI/ML integration. I'm driven by the desire to build intelligent applications that solve real-world problems.
+I'm a **passionate full-stack developer** fresh out of college with a strong foundation in modern web technologies and AI/ML integration. I'm driven by the desire to build intelligent applications that make a real impact.
 
 **What defines my approach:**
 - **🧠 AI/ML Integration** — Leveraging cutting-edge LLMs (Gemini 2.5 Flash, Groq LLaMA, OpenAI) to build intelligent features
@@ -39,23 +39,6 @@ I'm a **passionate full-stack developer** fresh out of college with a strong fou
 | **Languages** | 5+ | 💻 Full Stack |
 | **Avg Performance** | 90+ Lighthouse | ⭐ Optimized |
 
-</div>
-
-### 📊 Visual Analytics
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <h4>📈 GitHub Stats</h4>
-        <img src="https://github-readme-stats.vercel.app/api?username=26Utkarsh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <h4>💻 Top Languages</h4>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=26Utkarsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=79c0ff" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ### 📈 Contribution Graph
@@ -183,7 +166,7 @@ I'm a **passionate full-stack developer** fresh out of college with a strong fou
 ### 🔥 **InkWire** — AI-Powered News Publishing Platform
 > **[Repository](https://github.com/26Utkarsh/InkWire)** | **[Live Demo](https://inkwire.netlify.app)** | **Production Ready** ✅
 
-A **fully automated, enterprise-grade news publishing platform** powered by Google Gemini 2.5 Flash AI. This is my flagship project demonstrating full-stack capabilities, aggregating 7+ global news sources with real-time processing.
+A **fully automated, enterprise-grade news publishing platform** powered by Google Gemini 2.5 Flash AI. This is my flagship project demonstrating full-stack capabilities, aggregating 7+ global news sources with real-time updates and automated article summaries.
 
 **🎯 Key Features & Learning:**
 - ✅ **Dual AI Engine:** Google Gemini 2.5 Flash (primary) + Groq LLaMA 70B (fallback) with error handling
@@ -205,7 +188,7 @@ A **fully automated, enterprise-grade news publishing platform** powered by Goog
 ### 🚀 **SpaceVerse** — Space Mission Encyclopedia
 > **[Repository](https://github.com/26Utkarsh/space-verse)** | **Production Ready** ✅
 
-A **comprehensive, full-stack web application** serving as a space mission encyclopedia with 80+ real space missions. Demonstrates advanced search, filtering, and admin capabilities with beautiful animations and responsive design.
+A **comprehensive, full-stack web application** serving as a space mission encyclopedia with 80+ real space missions. Demonstrates advanced search, filtering, and admin capabilities with beautiful UI and performance optimization.
 
 **🎯 Key Features & Learning:**
 - 🌌 **80+ Real Space Missions:** NASA, ISRO, ESA, CNSA, JAXA databases with live updates
@@ -225,7 +208,7 @@ A **comprehensive, full-stack web application** serving as a space mission encyc
 ### 🇮🇳 **India Matrix** — National Intelligence & Analytics Platform
 > **[Repository](https://github.com/26Utkarsh/India-Matrix)** | **Complex Data Visualization** ✨
 
-A **premium interactive data visualization suite** tracking India's historic journey (1947-2026). This project showcases advanced data visualization, geospatial mapping, and dual AI integration capabilities.
+A **premium interactive data visualization suite** tracking India's historic journey (1947-2026). This project showcases advanced data visualization, geospatial mapping, and dual AI integration combining Google Gemini and Groq LLaMA.
 
 **🎯 Key Features & Learning:**
 - 📊 **Performance Matrix:** Historical data on 15 Prime Ministers across 18 tenures (GDP, inflation, literacy, defense)
