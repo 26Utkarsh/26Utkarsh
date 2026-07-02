@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=Utkarsh+Shrivastava;Full-Stack+Developer;AI+%26+ML+Integration+Specialist;Building+Intelligent+Web+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=Utkarsh+Shrivastava;Full-Stack+Developer;AI+%26+ML+Integrat[...]" alt="Typing animation" />
 </div>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 🤖 About Me
 
-I'm a **passionate full-stack developer** fresh out of college with a strong foundation in modern web technologies and AI/ML integration. I'm driven by the desire to build intelligent applications that solve real-world problems and deliver exceptional user experiences. Through personal projects and continuous learning, I've developed expertise in the MERN stack, AI integration, and cloud deployment.
+I'm a **passionate full-stack developer** fresh out of college with a strong foundation in modern web technologies and AI/ML integration. I'm driven by the desire to build intelligent applications[...]
 
 **What defines my approach:**
 - **🧠 AI/ML Integration** — Leveraging cutting-edge LLMs (Gemini 2.5 Flash, Groq LLaMA, OpenAI) to build intelligent features
@@ -31,16 +31,25 @@ I'm a **passionate full-stack developer** fresh out of college with a strong fou
 <table width="100%">
   <tr>
     <td width="50%" align="center">
+      <!-- Primary: github-readme-stats.vercel.app -->
       <img src="https://github-readme-stats.vercel.app/api?username=26Utkarsh&show_icons=true&theme=react&count_private=true&hide_border=true" alt="Utkarsh's GitHub Stats" />
+      <!-- Fallback: ghstats.io -->
+      <img src="https://ghstats.io/api?user=26Utkarsh&show=stars,commits,prs" alt="GitHub Stats Fallback" width="100%" />
     </td>
     <td width="50%" align="center">
+      <!-- Primary: github-readme-stats.vercel.app -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=26Utkarsh&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+      <!-- Fallback: GitHub REST API based languages -->
+      <img src="https://img.shields.io/badge/Languages-TypeScript%20%7C%20JavaScript%20%7C%20Python-blue?style=flat-square" alt="Top Languages Fallback" />
     </td>
   </tr>
 </table>
 
 <p align="center">
+  <!-- Primary: github-readme-activity-graph.vercel.app -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=26Utkarsh&theme=react-dark&hide_border=true" alt="Contribution Activity" />
+  <!-- Fallback: Alternative contribution badge -->
+  <img src="https://img.shields.io/badge/GitHub-500%2B%20Commits-181717?style=for-the-badge&logo=github" alt="Contribution Activity Fallback" />
 </p>
 
 ### 📊 Portfolio Stats
@@ -54,7 +63,15 @@ I'm a **passionate full-stack developer** fresh out of college with a strong fou
 
 ## 🏆 GitHub Trophies
 
+<!-- Primary: github-profile-trophies.vercel.app -->
 [![GitHub Trophies](https://github-profile-trophies.vercel.app/?username=26Utkarsh&theme=onedark&column=7&row=2&no-bg=false)](https://github.com/ryo-ma/github-profile-trophies)
+
+<!-- Fallback: Static badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆-18%2B%20Projects-gold?style=flat-square" alt="Trophy Fallback 1" />
+  <img src="https://img.shields.io/badge/⭐-Consistent%20Developer-brightgreen?style=flat-square" alt="Trophy Fallback 2" />
+  <img src="https://img.shields.io/badge/🚀-Full%20Stack%20Master-blue?style=flat-square" alt="Trophy Fallback 3" />
+</p>
 
 ---
 
@@ -63,7 +80,7 @@ I'm a **passionate full-stack developer** fresh out of college with a strong fou
 ### 🔥 **InkWire** — AI-Powered News Publishing Platform
 > **[Repository](https://github.com/26Utkarsh/InkWire)** | **[Live Demo](https://inkwire.netlify.app)** | **Production Ready** ✅
 
-A **fully automated, enterprise-grade news publishing platform** powered by Google Gemini 2.5 Flash AI. This is my flagship project demonstrating full-stack capabilities, aggregating 7+ global news sources, auto-generating SEO-optimized articles, and distributing newsletters to subscribers.
+A **fully automated, enterprise-grade news publishing platform** powered by Google Gemini 2.5 Flash AI. This is my flagship project demonstrating full-stack capabilities, aggregating 7+ global new[...]
 
 **🎯 Key Features & Learning:**
 - ✅ **Dual AI Engine:** Google Gemini 2.5 Flash (primary) + Groq LLaMA 70B (fallback) with error handling
@@ -85,7 +102,7 @@ A **fully automated, enterprise-grade news publishing platform** powered by Goog
 ### 🚀 **SpaceVerse** — Space Mission Encyclopedia
 > **[Repository](https://github.com/26Utkarsh/space-verse)** | **Production Ready** ✅
 
-A **comprehensive, full-stack web application** serving as a space mission encyclopedia with 80+ real space missions. Demonstrates advanced search, filtering, and admin capabilities with beautiful responsive design.
+A **comprehensive, full-stack web application** serving as a space mission encyclopedia with 80+ real space missions. Demonstrates advanced search, filtering, and admin capabilities with beautiful[...]
 
 **🎯 Key Features & Learning:**
 - 🌌 **80+ Real Space Missions:** NASA, ISRO, ESA, CNSA, JAXA databases with live updates
@@ -105,7 +122,7 @@ A **comprehensive, full-stack web application** serving as a space mission encyc
 ### 🇮🇳 **India Matrix** — National Intelligence & Analytics Platform
 > **[Repository](https://github.com/26Utkarsh/India-Matrix)** | **Complex Data Visualization** ✨
 
-A **premium interactive data visualization suite** tracking India's historic journey (1947-2026). This project showcases advanced data visualization, geospatial mapping, and dual AI integration capabilities.
+A **premium interactive data visualization suite** tracking India's historic journey (1947-2026). This project showcases advanced data visualization, geospatial mapping, and dual AI integration c[...]
 
 **🎯 Key Features & Learning:**
 - 📊 **Performance Matrix:** Historical data on 15 Prime Ministers across 18 tenures (GDP, inflation, literacy, defense)
@@ -401,7 +418,11 @@ Technologies Mastered:        20+
 
 <div align="center">
 
+<!-- Primary: komarev.com -->
 ![Profile Views](https://komarev.com/ghpvc/?username=26Utkarsh&color=blueviolet&style=flat-square)
+
+<!-- Fallback: Simple badge -->
+<img src="https://img.shields.io/badge/Profile%20Views-Tracking%20Active-blue?style=flat-square" alt="Profile Views Fallback" />
 
 </div>
 
