@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=Utkarsh+Shrivastava;Full-Stack+Developer;AI+%26+ML+Integration;Building+Intelligent+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=Utkarsh+Shrivastava;Full-Stack+Developer;AI+%26+ML+Integrat[...]">
 </div>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 🤖 About Me
 
-I'm a **passionate full-stack developer** fresh out of college with a strong foundation in modern web technologies and AI/ML integration. I'm driven by the desire to build intelligent applications that solve real-world problems.
+I'm a **passionate full-stack developer** fresh out of college with a strong foundation in modern web technologies and AI/ML integration. I'm driven by the desire to build intelligent applications[...]
 
 **What defines my approach:**
 - **🧠 AI/ML Integration** — Leveraging cutting-edge LLMs (Gemini 2.5 Flash, Groq LLaMA, OpenAI) to build intelligent features
@@ -28,56 +28,34 @@ I'm a **passionate full-stack developer** fresh out of college with a strong fou
 
 ## 🌟 ⭐️ FEATURED PROJECT SHOWCASE ⭐️
 
-### 🔷 **VERTEX** — Graph Algorithm Visualization Engine
-> **[Repository](https://github.com/26Utkarsh/Vertex)** | **[Explore Now](#)** | **🏆 Flagship Project**
+### 🔷 **VERTEX** — AI-Ranked Developer Intelligence Platform
+> **[Repository](https://github.com/26Utkarsh/Vertex)** | **🏆 Flagship Project**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VERTEX-Graph%20Visualization%20Engine-blueviolet?style=for-the-badge&logo=java&logoColor=white" alt="Vertex Badge" />
-  <img src="https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Status-🔥%20Production%20Ready-brightgreen?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/VERTEX-AI%20Ranked%20Developer%20Intelligence-blueviolet?style=for-the-badge" alt="Vertex Badge" />
+  <img src="https://img.shields.io/badge/Language-Java-007396?style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/Status-Production-brightgreen?style=for-the-badge" alt="Status" />
 </div>
 
-**Vertex** is an **advanced graph algorithm visualization system** built with Java, featuring real-time algorithm demonstrations and interactive graph manipulation. This project showcases algorithmic excellence, data structure mastery, and sophisticated visualization capabilities.
+**Vertex — AI-Ranked Developer Intelligence Platform**
 
-**🎯 Core Features & Innovation:**
-- 🔋 **Multi-Graph Support:** Directed, undirected, weighted, and unweighted graphs
-- 🎬 **Real-time Visualization:** Animated algorithm execution with step-by-step breakdown
-- 🧮 **Algorithm Suite:** 
-  - Path Finding: Dijkstra, A*, BFS, DFS
-  - Sorting: Topological sort, Kahn's algorithm
-  - Spanning Trees: Kruskal's, Prim's algorithm
-  - Cycle Detection & SCC (Strongly Connected Components)
-- 🎨 **Interactive UI:** Drag-and-drop node creation, customizable edge weights
-- ⚡ **Performance Optimized:** O(V+E) complexity implementations with efficient data structures
-- 📊 **Statistical Analytics:** Real-time metrics, complexity analysis, execution time tracking
-- 🎯 **Educational:** Perfect for algorithm learning and CS interviews
-- 💾 **Graph Persistence:** Save/load graph configurations
+Vertex is a full-stack web application that solves a real problem developers face daily: staying updated means checking a dozen scattered sources — GitHub trending, arXiv papers, Hacker News, security advisories — just to find the handful of things that actually matter. Vertex aggregates these sources into a single ranked, AI-summarized feed, replacing routine tab-checking with one focused view.
 
-**Tech Stack:** Java 17+ | Swing/JavaFX | Data Structures | Graph Theory | Algorithm Optimization
+**How it works:** Vertex continuously collects data from the GitHub, arXiv, and Hacker News APIs, normalizes it into a common schema, and runs it through an AI intelligence layer (Google Gemini) that generates summaries and explanations for every item. Instead of sorting by recency, Vertex calculates a custom relevance score based on growth, activity, and freshness signals — so the feed surfaces what's actually significant, not just what's latest.
 
-**What Makes Vertex Special:**
-- Demonstrates deep understanding of **graph theory and algorithms**
-- Implements **industry-standard algorithms** with optimal complexity
-- Features **beautiful animations** for algorithm visualization
-- Perfect portfolio project for **software engineering interviews**
-- Extensible architecture for adding new algorithms
+**Key features:**
+- Ranked, AI-summarized feed across GitHub, arXiv, and Hacker News
+- Daily AI-generated brief summarizing the day's top signals in one paragraph
+- Cross-source story merging — links a GitHub repo, its research paper, and its HN discussion into one unified story
+- Full-text search across all indexed content
+- Google OAuth authentication with personal bookmarking and activity history
+- Weekly trend tracking showing what's rising or falling in relevance
 
-<div align="center">
+**Architecture:** Built as a decoupled full-stack system — a Java 21 / Spring Boot REST API backend (layered controller/service/repository architecture, PostgreSQL via Neon, Flyway migrations, Spring Security with JWT) and a Next.js (App Router) / TypeScript frontend styled with Tailwind CSS. Scheduled collector jobs run via GitHub Actions, and the app is deployed on Render.
 
-```
-╔═══════════════════════════════════════════════════╗
-║         🏆 VERTEX: ALGORITHM EXCELLENCE 🏆       ║
-╠═══════════════════════════════════════════════════╣
-║  Core Algorithms Implemented:          15+        ║
-║  Graph Types Supported:                 4        ║
-║  Animation Frames per Second:          60 FPS     ║
-║  Code Organization:                 Modular       ║
-║  Test Coverage:                    Comprehensive   ║
-║  Documentation Quality:           Well-Detailed    ║
-╚═══════════════════════════════════════════════════╝
-```
+**Why it's notable:** Vertex isn't a simple CRUD app — it's a data pipeline (collection → normalization → AI enrichment → ranking → API → UI) built and deployed solo, entirely on free-tier infrastructure, with production-grade code standards: typed throughout, tested, no hardcoded secrets, proper error/loading states, and a scoped, phased build process rather than one-shot AI-generated code.
 
-</div>
+**Tech stack:** Java, Spring Boot, Spring Security, PostgreSQL, Next.js, TypeScript, Tailwind CSS, Google Gemini API, Google OAuth, GitHub Actions, Render.
 
 ---
 
@@ -98,7 +76,8 @@ I'm a **passionate full-stack developer** fresh out of college with a strong fou
 
 ### 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=26Utkarsh&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=58a6ff" alt="Contribution Graph" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=26Utkarsh&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=58a6ff" alt="Contribution Gr[...]">
 </div>
 
 ### 🎯 Repository Statistics
