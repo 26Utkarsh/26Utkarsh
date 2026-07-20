@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=Utkarsh+Shrivastava;Full-Stack+Developer;AI+%26+ML+Integrat[...]"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=Utkarsh+Shrivastava;Full-Stack+Developer;AI+%26+ML+Integrat[...]
 </div>
 
 <p align="center">
@@ -37,25 +37,33 @@ I'm a **passionate full-stack developer** fresh out of college with a strong fou
   <img src="https://img.shields.io/badge/Status-Production-brightgreen?style=for-the-badge" alt="Status" />
 </div>
 
-**InsightFlow — Intelligent Insights Platform**
+**InsightFlow**
 
-InsightFlow is a full-stack web application that solves a real problem developers face daily: staying updated means checking a dozen scattered sources — GitHub trending, arXiv papers, Hacker News, se[...]
+InsightFlow is an AI-powered Business Intelligence (BI) and data analytics platform that enables users to ingest, process, and visualize structured datasets through an interactive analytics dashboard. The application supports CSV, Excel, and JSON files, performs automated data profiling and validation, computes key performance indicators (KPIs), and leverages Google Gemini API to generate contextual insights and executive summaries using natural language.
 
-**How it works:** InsightFlow continuously collects data from the GitHub, arXiv, and Hacker News APIs, normalizes it into a common schema, and runs it through an AI intelligence layer (Google Gemini) t[...]
+✨ Key Features
+- Multi-format data ingestion (CSV, XLSX, JSON)
+- Automated data profiling, validation, and quality assessment
+- Interactive dashboards with dynamic data visualizations
+- AI-powered insight generation and trend analysis
+- KPI computation and statistical summaries
+- Responsive, enterprise-grade UI with real-time filtering
+- Export analytics reports (PDF, DOCX, PNG)
 
-**Key features:**
-- Ranked, AI-summarized feed across GitHub, arXiv, and Hacker News
-- Daily AI-generated brief summarizing the day's top signals in one paragraph
-- Cross-source story merging — links a GitHub repo, its research paper, and its HN discussion into one unified story
-- Full-text search across all indexed content
-- Google OAuth authentication with personal bookmarking and activity history
-- Weekly trend tracking showing what's rising or falling in relevance
+🛠 Tech Stack
+- Frontend: React, TypeScript, Vite, Tailwind CSS
+- Visualization: Recharts
+- AI Integration: Google Gemini API
+- Data Processing: Papa Parse, SheetJS (XLSX)
 
-**Architecture:** Built as a decoupled full-stack system — a Java 21 / Spring Boot REST API backend (layered controller/service/repository architecture, PostgreSQL via Neon, Flyway migrations, S[...]
-
-**Why it's notable:** InsightFlow isn't a simple CRUD app — it's a data pipeline (collection → normalization → AI enrichment → ranking → API → UI) built and deployed solo, entirely on free-[...]
-
-**Tech stack:** Java, Spring Boot, Spring Security, PostgreSQL, Next.js, TypeScript, Tailwind CSS, Google Gemini API, Google OAuth, GitHub Actions, Render.
+🚀 Technical Highlights
+- Client-side ETL (Extract, Transform, Load) pipeline for structured datasets
+- Automated schema detection and data type inference
+- Statistical aggregation and KPI computation
+- AI-assisted analytics with contextual business intelligence
+- Component-based architecture with reusable UI modules
+- Optimized rendering and responsive dashboard design
+- Modular, scalable, and maintainable codebase following modern frontend development practices
 
 ---
 
@@ -77,7 +85,7 @@ InsightFlow is a full-stack web application that solves a real problem developer
 ### 📈 Contribution Graph
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=26Utkarsh&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=58a6ff" alt="Contribution Gr[[...]"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=26Utkarsh&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=58a6ff" alt="Contribution Gr[[...]
 </div>
 
 ### 🎯 Repository Statistics
