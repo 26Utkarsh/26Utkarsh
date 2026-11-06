@@ -27,9 +27,13 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A250F,50:F4BD72,100:7A250F&height=70&section=header" width="100%" alt="" />
+<img src="space.svg" alt="Arrakis hanging in space with its two moons while a Heighliner drifts past" width="100%" />
+
+<img src="worm-divider.svg" width="100%" alt="" />
 
 ## ⟡ Fremen dossier
+
+<img src="fremen.svg" alt="A Fremen silhouette with glowing blue eyes watches a colossal sandworm arch across a setting sun" width="100%" />
 
 <div align="center">
 
@@ -87,7 +91,7 @@ Integrate AI where it improves a decision, workflow, or user experience.
 
 > **Operating principle:** build with precision, make the signal visible, and leave the product better than you found it.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A250F,50:F4BD72,100:7A250F&height=70&section=header" width="100%" alt="" />
+<img src="worm-divider.svg" width="100%" alt="" />
 
 ## ⟡ Featured work // the spice reserves
 
@@ -158,7 +162,7 @@ InkWire combines real-time news aggregation, AI-assisted editorial workflows, an
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A250F,50:F4BD72,100:7A250F&height=70&section=header" width="100%" alt="" />
+<img src="worm-divider.svg" width="100%" alt="" />
 
 ## ⟡ More projects // across the dunes
 
@@ -175,7 +179,7 @@ InkWire combines real-time news aggregation, AI-assisted editorial workflows, an
 | [Expense Tracker](https://github.com/26Utkarsh/Personal-Expense-Tracker) | Personal finance management | JavaScript · Web |
 | [Study Planner](https://github.com/26Utkarsh/Personal-Study-Planner) | Study planning and productivity | JavaScript · Web |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A250F,50:F4BD72,100:7A250F&height=70&section=header" width="100%" alt="" />
+<img src="worm-divider.svg" width="100%" alt="" />
 
 ## ⟡ Desert systems // how I work
 
@@ -212,15 +216,9 @@ Use feedback and real behaviour to refine the product horizon.
 </tr>
 </table>
 
-<div align="center">
+<img src="storm.svg" alt="An ornithopter flies through a Coriolis sandstorm lit by lightning" width="100%" />
 
-<img src="https://images.unsplash.com/photo-1489493173507-6feea31f12ff?auto=format&fit=crop&fm=jpg&q=82&w=1600&h=360" alt="Desert dunes beneath a deepening sky" width="100%" />
-
-<sub>Desert-world visual direction inspired by Arrakis: obsidian skies, spice-orange dunes, copper, and antique gold.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A250F,50:F4BD72,100:7A250F&height=70&section=header" width="100%" alt="" />
+<img src="worm-divider.svg" width="100%" alt="" />
 
 ## ⟡ Technology toolkit // the stillsuit
 
@@ -257,7 +255,7 @@ RESTful API design · component-driven React development · Git workflows · per
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A250F,50:F4BD72,100:7A250F&height=70&section=header" width="100%" alt="" />
+<img src="worm-divider.svg" width="100%" alt="" />
 
 ## ⟡ GitHub activity // tracks in the sand
 
@@ -269,7 +267,7 @@ RESTful API design · component-driven React development · Git workflows · per
 
 > GitHub already shows your live contribution graph, repositories, stars, and language data directly on your profile. This README intentionally avoids unreliable third-party statistic and repository-card services that display broken images.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A250F,50:F4BD72,100:7A250F&height=70&section=header" width="100%" alt="" />
+<img src="worm-divider.svg" width="100%" alt="" />
 
 ## ⟡ Currently learning // the long journey
 
@@ -282,7 +280,7 @@ RESTful API design · component-driven React development · Git workflows · per
 | **Security** | OAuth 2.0, API security, and zero-trust patterns |
 | **Data engineering** | ETL pipelines, analytics workflows, and reliable data products |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A250F,50:F4BD72,100:7A250F&height=70&section=header" width="100%" alt="" />
+<img src="spice.svg" alt="Hooded Fremen face with eyes of spice-blue glowing in the dark" width="100%" />
 
 <div align="center">
 
