@@ -4,7 +4,7 @@
 
 <h3>⟡ ARRĀKIS // SIGNAL ONLINE ⟡</h3>
 
-<img src="assets/sandworm.svg" alt="A colossal sandworm breaching the dunes of Arrakis beneath two moons" width="100%" />
+<img src="sandworm.svg" alt="A colossal sandworm breaching the dunes of Arrakis beneath two moons" width="100%" />
 
 <br /><br />
 
