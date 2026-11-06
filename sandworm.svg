@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 440" width="1600" height="440" role="img" aria-label="A colossal sandworm breaching the dunes of Arrakis beneath two moons">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#07050A"/>
+      <stop offset="0.45" stop-color="#2A0F0A"/>
+      <stop offset="0.8" stop-color="#7A250F"/>
+      <stop offset="1" stop-color="#E86D28"/>
+    </linearGradient>
+    <radialGradient id="sunGlow" cx="0.5" cy="1" r="0.6">
+      <stop offset="0" stop-color="#F4BD72" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#F4BD72" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="duneFar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9A3A14"/>
+      <stop offset="1" stop-color="#4A1A0B"/>
+    </linearGradient>
+    <linearGradient id="duneMid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C85A20"/>
+      <stop offset="1" stop-color="#5A200D"/>
+    </linearGradient>
+    <linearGradient id="duneNear" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F4BD72"/>
+      <stop offset="1" stop-color="#8A3A14"/>
+    </linearGradient>
+    <linearGradient id="worm" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3A1A10"/>
+      <stop offset="0.45" stop-color="#9C6A45"/>
+      <stop offset="1" stop-color="#2A120A"/>
+    </linearGradient>
+    <radialGradient id="throat" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0.7" stop-color="#1A0804"/>
+      <stop offset="1" stop-color="#5A1C0A"/>
+    </radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="2"/></filter>
+  </defs>
+
+  <!-- sky -->
+  <rect width="1600" height="440" fill="url(#sky)"/>
+  <rect width="1600" height="440" fill="url(#sunGlow)"/>
+
+  <!-- stars -->
+  <g fill="#FBE4BC">
+    <circle cx="120" cy="40" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="260" cy="90" r="1"><animate attributeName="opacity" values="1;0.2;1" dur="4.1s" repeatCount="indefinite"/></circle>
+    <circle cx="410" cy="30" r="1.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="75" r="1"><animate attributeName="opacity" values="1;0.3;1" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="25" r="1.2"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="55" r="1.3"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="1130" cy="28" r="1"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.9s" repeatCount="indefinite"/></circle>
+    <circle cx="1290" cy="85" r="1.5"><animate attributeName="opacity" values="1;0.2;1" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="1450" cy="35" r="1.1"><animate attributeName="opacity" values="0.2;1;0.2" dur="4.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1540" cy="95" r="1"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="3.3s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- the two moons -->
+  <g>
+    <circle cx="1230" cy="95" r="34" fill="#E9D3A8" opacity="0.92"/>
+    <circle cx="1218" cy="86" r="7" fill="#C9AE80" opacity="0.6"/>
+    <circle cx="1243" cy="106" r="5" fill="#C9AE80" opacity="0.5"/>
+    <circle cx="1345" cy="150" r="17" fill="#F4BD72" opacity="0.85"/>
+    <circle cx="1340" cy="146" r="4" fill="#C28A5E" opacity="0.6"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0; -12 4; 0 0" dur="24s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- far dunes -->
+  <g>
+    <path d="M-200 300 C -50 250, 120 250, 280 290 C 440 330, 560 240, 760 262 C 940 282, 1060 330, 1240 280 C 1400 238, 1560 260, 1800 300 L1800 440 L-200 440 Z" fill="url(#duneFar)"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0; -90 0; 0 0" dur="30s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- tiny Fremen silhouette for scale -->
+  <g fill="#0D0705" opacity="0.9">
+    <path d="M338 292 l3 -16 l-2 -4 l4 -1 l-1 5 l3 16 z"/>
+    <circle cx="341" cy="268" r="2.2"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0; -90 0; 0 0" dur="30s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- THE WORM -->
+  <g>
+    <g>
+      <!-- body -->
+      <path d="M810 470 C 800 370, 835 270, 800 150" fill="none" stroke="url(#worm)" stroke-width="150" stroke-linecap="butt"/>
+      <!-- ring segments -->
+      <path d="M810 470 C 800 370, 835 270, 800 150" fill="none" stroke="#1A0A05" stroke-width="150" stroke-dasharray="5 19" opacity="0.38"/>
+      <!-- highlight -->
+      <path d="M770 470 C 762 370, 795 270, 765 150" fill="none" stroke="#D9A878" stroke-width="10" opacity="0.25" stroke-linecap="round"/>
+      <!-- mouth rim -->
+      <ellipse cx="800" cy="146" rx="96" ry="38" fill="#7A4A2C"/>
+      <ellipse cx="800" cy="146" rx="96" ry="38" fill="none" stroke="#FBE4BC" stroke-width="9" stroke-dasharray="3 7" opacity="0.9"/>
+      <ellipse cx="800" cy="148" rx="74" ry="28" fill="url(#throat)"/>
+      <ellipse cx="800" cy="148" rx="52" ry="19" fill="none" stroke="#F4BD72" stroke-width="5" stroke-dasharray="2 6" opacity="0.75">
+        <animate attributeName="rx" values="52;46;52" dur="4s" repeatCount="indefinite"/>
+        <animate attributeName="ry" values="19;16;19" dur="4s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="800" cy="150" rx="26" ry="9" fill="#000"/>
+    </g>
+    <animateTransform attributeName="transform" type="translate" values="0 70; 0 -6; 0 70" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" keyTimes="0;0.5;1"/>
+  </g>
+
+  <!-- sand spray around the worm -->
+  <g fill="#F4BD72">
+    <circle cx="690" cy="260" r="3"><animate attributeName="cy" values="300;110;300" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="720" cy="280" r="2"><animate attributeName="cy" values="310;80;310" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="930" cy="270" r="3"><animate attributeName="cy" values="300;120;300" dur="5.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="5.5s" repeatCount="indefinite"/></circle>
+    <circle cx="960" cy="290" r="2"><animate attributeName="cy" values="320;90;320" dur="4.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4.6s" repeatCount="indefinite"/></circle>
+    <circle cx="650" cy="300" r="2"><animate attributeName="cy" values="320;180;320" dur="3.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="305" r="2.5"><animate attributeName="cy" values="325;170;325" dur="4.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="300" r="2"><animate attributeName="cy" values="320;60;320" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="860" cy="300" r="2"><animate attributeName="cy" values="320;70;320" dur="6.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="6.4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- mid dunes (cover the worm's base) -->
+  <g>
+    <path d="M-200 350 C -40 300, 160 310, 320 345 C 480 380, 640 310, 800 335 C 960 360, 1100 390, 1280 340 C 1440 296, 1600 320, 1800 352 L1800 440 L-200 440 Z" fill="url(#duneMid)"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 60 0; 0 0" dur="22s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- dust haze -->
+  <rect y="300" width="1600" height="60" fill="#F4BD72" opacity="0.08" filter="url(#soft)"/>
+
+  <!-- near dunes -->
+  <g>
+    <path d="M-200 400 C 0 360, 220 370, 420 398 C 620 426, 800 372, 1000 392 C 1200 412, 1400 372, 1800 404 L1800 440 L-200 440 Z" fill="url(#duneNear)"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0; -40 0; 0 0" dur="16s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- wind-blown sand streaks -->
+  <g stroke="#FBE4BC" stroke-width="1.5" stroke-linecap="round" opacity="0.5">
+    <line x1="-100" y1="330" x2="-40" y2="330"><animate attributeName="x1" values="-100;1700" dur="7s" repeatCount="indefinite"/><animate attributeName="x2" values="-40;1760" dur="7s" repeatCount="indefinite"/></line>
+    <line x1="-300" y1="372" x2="-220" y2="372"><animate attributeName="x1" values="-300;1700" dur="9s" repeatCount="indefinite"/><animate attributeName="x2" values="-220;1780" dur="9s" repeatCount="indefinite"/></line>
+    <line x1="-500" y1="300" x2="-450" y2="300"><animate attributeName="x1" values="-500;1700" dur="11s" repeatCount="indefinite"/><animate attributeName="x2" values="-450;1750" dur="11s" repeatCount="indefinite"/></line>
+  </g>
+
+  <text x="800" y="428" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" letter-spacing="10" fill="#FBE4BC" opacity="0.8">SHAI-HULUD  ·  MAKER OF THE DESERT</text>
+</svg>
