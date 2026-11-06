@@ -4,9 +4,7 @@
 
 <h3>⟡ ARRĀKIS // SIGNAL ONLINE ⟡</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120D08,50:7A250F,100:E86D28&height=170&section=header&text=SHAI-HULUD%20RISES&fontSize=38&fontColor=FBE4BC&fontAlignY=42&desc=Maker%20of%20the%20desert%20%C2%B7%20Walk%20without%20rhythm&descAlignY=64&descSize=15&animation=twinkling" alt="Shai-Hulud rises over the dunes of Arrakis" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=600&color=E86D28&center=true&vCenter=true&width=900&height=40&lines=%F0%9F%AA%B1+%EF%BD%9E%EF%BD%9E%EF%BD%9E%EF%BD%9E%EF%BD%9E+the+sand+trembles+%EF%BD%9E%EF%BD%9E%EF%BD%9E%EF%BD%9E%EF%BD%9E;%EF%BD%9E%EF%BD%9E%F0%9F%AA%B1%EF%BD%9E%EF%BD%9E+something+vast+moves+below+%EF%BD%9E%EF%BD%9E%F0%9F%AA%B1%EF%BD%9E%EF%BD%9E;%E2%97%8E%E2%97%8E%E2%97%8E+SHAI-HULUD+BREACHES+%E2%97%8E%E2%97%8E%E2%97%8E" alt="Sandworm approaching" />
+<img src="assets/sandworm.svg" alt="A colossal sandworm breaching the dunes of Arrakis beneath two moons" width="100%" />
 
 <br /><br />
 
