@@ -4,19 +4,13 @@
 
 <h3>⟡ ARRĀKIS // SIGNAL ONLINE ⟡</h3>
 
-<img src="https://images.unsplash.com/photo-1535089894977-83d4c8854f62?auto=format&fit=crop&fm=jpg&q=82&w=1600&h=360" alt="Golden desert dunes at sunset" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120D08,50:7A250F,100:E86D28&height=170&section=header&text=SHAI-HULUD%20RISES&fontSize=38&fontColor=FBE4BC&fontAlignY=42&desc=Maker%20of%20the%20desert%20%C2%B7%20Walk%20without%20rhythm&descAlignY=64&descSize=15&animation=twinkling" alt="Shai-Hulud rises over the dunes of Arrakis" width="100%" />
 
-<sub>Desert-world visual direction inspired by Arrakis: obsidian skies, spice-orange dunes, copper, and antique gold.</sub>
-
-<br /><br />
-
-<a href="https://github.com/26Utkarsh">
-  <img src="https://github.com/26Utkarsh.png?size=300" width="148" alt="Utkarsh Shrivastava" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=600&color=E86D28&center=true&vCenter=true&width=900&height=40&lines=%F0%9F%AA%B1+%EF%BD%9E%EF%BD%9E%EF%BD%9E%EF%BD%9E%EF%BD%9E+the+sand+trembles+%EF%BD%9E%EF%BD%9E%EF%BD%9E%EF%BD%9E%EF%BD%9E;%EF%BD%9E%EF%BD%9E%F0%9F%AA%B1%EF%BD%9E%EF%BD%9E+something+vast+moves+below+%EF%BD%9E%EF%BD%9E%F0%9F%AA%B1%EF%BD%9E%EF%BD%9E;%E2%97%8E%E2%97%8E%E2%97%8E+SHAI-HULUD+BREACHES+%E2%97%8E%E2%97%8E%E2%97%8E" alt="Sandworm approaching" />
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=F4BD72&center=true&vCenter=true&width=800&lines=Building+useful+products+with+MERN+%2B+TypeScript;Turning+data+into+clear%2C+interactive+experiences;Exploring+practical+Generative+AI+for+real+people" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=F4BD72&center=true&vCenter=true&width=800&lines=Building+useful+products+with+MERN+%2B+TypeScript;Turning+data+into+clear%2C+interactive+experiences;Exploring+practical+Generative+AI+for+real+people;Walking+without+rhythm%2C+so+the+worm+never+notices" alt="Animated introduction" />
 
 <br />
 
@@ -30,25 +24,28 @@
 <br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=26Utkarsh&style=for-the-badge&color=E86D28&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/badge/Location-Bhopal%2C%20India-F4BD72?style=for-the-badge&labelColor=24110A" alt="Bhopal, India" />
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-E86D28?style=for-the-badge&labelColor=24110A" alt="Open to opportunities" />
+<img src="https://img.shields.io/badge/Sietch-Bhopal%2C%20India-F4BD72?style=for-the-badge&labelColor=24110A" alt="Bhopal, India" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-E86D28?style=for-the-badge&labelColor=24110A" alt="Open to opportunities" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E86D28,50:F4BD72,100:7A250F&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A250F,50:F4BD72,100:7A250F&height=70&section=header" width="100%" alt="" />
 
-## The builder behind the signal
+## ⟡ Fremen dossier
 
-```ts
-const utkarsh = {
-  basedIn: "Bhopal, Madhya Pradesh, India",
-  education: "Computer Science Engineering graduate",
-  mission: "Make complicated things feel clear and useful",
-  builds: ["Full-stack products", "GenAI features", "Data visualisations"],
-  exploring: ["RAG systems", "Real-time apps", "Cloud and DevOps"],
-  openTo: ["Software engineering", "Data and analytics", "QA", "Open source"],
-};
-```
+<div align="center">
+
+| | |
+| :-- | :-- |
+| **𓂀 Name** | Utkarsh Shrivastava |
+| **🏜️ Sietch** | Bhopal, Madhya Pradesh, India |
+| **🎓 Training** | Computer Science Engineering graduate |
+| **⚔️ Craft** | Full-stack products · GenAI features · Data visualisation |
+| **🧭 Exploring** | RAG systems · Real-time apps · Cloud and DevOps |
+| **🤝 Open to** | Software engineering · Data and analytics · QA · Open source |
+| **🔱 Creed** | Make complicated things feel clear and useful |
+
+</div>
 
 Hi, I’m Utkarsh—a Computer Science Engineering graduate and full-stack developer based in Bhopal, India. I build digital products for the point where information becomes overwhelming: raw datasets, repetitive workflows, and ideas that need a clear route from concept to something people can actually use.
 
@@ -60,21 +57,21 @@ I am especially drawn to work that turns complexity into direction—analytics p
 <tr>
 <td width="33%" align="center">
 
-### Craft
+### 🜂 Craft
 
 Create responsive, accessible interfaces that feel deliberate and easy to use.
 
 </td>
 <td width="33%" align="center">
 
-### Decode
+### 🜄 Decode
 
 Turn scattered data into dashboards, maps, KPIs, and useful stories.
 
 </td>
 <td width="33%" align="center">
 
-### Augment
+### 🜁 Augment
 
 Integrate AI where it improves a decision, workflow, or user experience.
 
@@ -92,9 +89,9 @@ Integrate AI where it improves a decision, workflow, or user experience.
 
 > **Operating principle:** build with precision, make the signal visible, and leave the product better than you found it.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E86D28,50:F4BD72,100:7A250F&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A250F,50:F4BD72,100:7A250F&height=70&section=header" width="100%" alt="" />
 
-## Featured work
+## ⟡ Featured work // the spice reserves
 
 <table>
 <tr>
@@ -163,9 +160,9 @@ InkWire combines real-time news aggregation, AI-assisted editorial workflows, an
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E86D28,50:F4BD72,100:7A250F&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A250F,50:F4BD72,100:7A250F&height=70&section=header" width="100%" alt="" />
 
-## More projects
+## ⟡ More projects // across the dunes
 
 | Project | Description | Stack |
 | :-- | :-- | :-- |
@@ -180,9 +177,9 @@ InkWire combines real-time news aggregation, AI-assisted editorial workflows, an
 | [Expense Tracker](https://github.com/26Utkarsh/Personal-Expense-Tracker) | Personal finance management | JavaScript · Web |
 | [Study Planner](https://github.com/26Utkarsh/Personal-Study-Planner) | Study planning and productivity | JavaScript · Web |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E86D28,50:F4BD72,100:7A250F&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A250F,50:F4BD72,100:7A250F&height=70&section=header" width="100%" alt="" />
 
-## Desert systems // how I work
+## ⟡ Desert systems // how I work
 
 <table>
 <tr>
@@ -221,11 +218,13 @@ Use feedback and real behaviour to refine the product horizon.
 
 <img src="https://images.unsplash.com/photo-1489493173507-6feea31f12ff?auto=format&fit=crop&fm=jpg&q=82&w=1600&h=360" alt="Desert dunes beneath a deepening sky" width="100%" />
 
+<sub>Desert-world visual direction inspired by Arrakis: obsidian skies, spice-orange dunes, copper, and antique gold.</sub>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E86D28,50:F4BD72,100:7A250F&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A250F,50:F4BD72,100:7A250F&height=70&section=header" width="100%" alt="" />
 
-## Technology toolkit
+## ⟡ Technology toolkit // the stillsuit
 
 <div align="center">
 
@@ -260,9 +259,9 @@ RESTful API design · component-driven React development · Git workflows · per
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E86D28,50:F4BD72,100:7A250F&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A250F,50:F4BD72,100:7A250F&height=70&section=header" width="100%" alt="" />
 
-## GitHub activity
+## ⟡ GitHub activity // tracks in the sand
 
 <div align="center">
 
@@ -272,9 +271,9 @@ RESTful API design · component-driven React development · Git workflows · per
 
 > GitHub already shows your live contribution graph, repositories, stars, and language data directly on your profile. This README intentionally avoids unreliable third-party statistic and repository-card services that display broken images.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E86D28,50:F4BD72,100:7A250F&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A250F,50:F4BD72,100:7A250F&height=70&section=header" width="100%" alt="" />
 
-## Currently learning
+## ⟡ Currently learning // the long journey
 
 | Area | Current focus |
 | :-- | :-- |
@@ -285,7 +284,7 @@ RESTful API design · component-driven React development · Git workflows · per
 | **Security** | OAuth 2.0, API security, and zero-trust patterns |
 | **Data engineering** | ETL pipelines, analytics workflows, and reliable data products |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E86D28,50:F4BD72,100:7A250F&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A250F,50:F4BD72,100:7A250F&height=70&section=header" width="100%" alt="" />
 
 <div align="center">
 
